@@ -194,20 +194,9 @@ main {
 }
 /*! === media === */
 .media {
-  padding-top: 7.4rem;
-  padding-bottom: 12rem;
 }
 
 .media__metadata {
-  padding-bottom: 4rem;
-  text-align: left;
-}
-
-.iframe__container {
-  margin-top: 8rem;
-  display: flex;
-  align-items: center;
-  justify-content: center;
 }
 
 .composer {	
@@ -255,7 +244,7 @@ main {
 
 .about_container {
   display: grid;
-  gap: 8rem;
+  gap: 1em;
 }
 
 
